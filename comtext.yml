@@ -1,0 +1,11 @@
+vuepress:
+  title: "Архив Николая Владимировича Хессина"
+  base: "/"
+  revisionmeProjectId: "-OU9U_dmZA1cwYCoUjyX"
+  markdown_toc_level: [2, 3]
+
+pages:
+  - index.md
+
+books:
+  - content
