@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Архив Николая Владимировича Хессина</title>
+  <entry>
+    <title>Вопросы теории товара и стоимости в «Капитале» К. Маркса</title>
+    <updated>2026-08-03T10:30:52.184Z</updated>
+    <link href="files/hessin-voprosy-teorii-tovara-i-stoimosti-v-kapitale-marksa.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Николай Владимирович Хессин</name>
+    </author>
+  </entry>
+  <entry>
+    <title>В. И. Ленин о сущности и основных признаках товарного производства</title>
+    <updated>2026-08-03T10:30:57.396Z</updated>
+    <link href="files/hessin-lenin-o-sushchnosti-i-osnovnyh-priznakah-tovarnogo-proizvodstva.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Николай Владимирович Хессин</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Чернышевский о путях экономического развития россии (автореферат)</title>
+    <updated>2026-08-03T10:30:57.842Z</updated>
+    <link href="files/hessin-chernyshevskiy-o-putyah-ekonomicheskogo-razvitiya-rossii-avtoreferat.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Николай Владимирович Хессин</name>
+    </author>
+  </entry>
+</feed>
